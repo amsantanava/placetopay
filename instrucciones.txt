@@ -1,12 +1,12 @@
 Autor: Arley MAuricio Santana Vargas
 Email: arleysantana18@gmail.com
-Descripción: Proyecto de prueba Place to Pay
+DescripciÃ³n: Proyecto de prueba Place to Pay
 
-Instrucciones para la instalación del proyecto:
-1. Se debe crear la base de datos, corriendo el script databas.sql
+Instrucciones para la instalaciÃ³n del proyecto:
+1. Se debe crear la base de datos, corriendo el script database.sql
 2. Publicar el proyecto en un servidor apache se recomienda UniserverZ.
 3. Ejecutar el comando composer update, para actualizar todas las dependencias.
-4. Ingresar al sitio donde esté publicado el proyecto y acceder a la carpeta publicado.
+4. Ingresar al sitio donde estÃ© publicado el proyecto y acceder a la carpeta public.
 	Ejemplo: localhost/placetopay/public
 
 	
